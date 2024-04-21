@@ -1,0 +1,34 @@
+name: Dr4Bounty
+version: 1.0
+main: com.Dr4gula.Main
+api-version: 1.7.10
+authors: [ Dr4gula ]
+depend: [Vault]
+commands:
+  bounty:
+    description: Abre o menu de Bounty para o player.
+    usage: /bounty
+
+  bountyinfo:
+    description: Mostra o valor da bounty atual do player
+    usage: /bountyinfo
+
+  bountygive:
+    description: Adiciona uma quantia especificada à bounty de um jogador.
+    usage: /bountygive <player> <amount>
+    permission: dr4bounty.give
+
+  bountydel:
+    description: Remove uma bounty da lista global.
+    usage: /bountydel <player>
+    permission: dr4bounty.admin
+
+  bountyheaddel:
+    description: Remove uma bounty anunciada de um jogador.
+    usage: /bountyheaddel <player>
+    permission: dr4bounty.admin
+
+  dr4bounty:
+    description: Comando para recarregar as configurações do plugin.
+    usage: /dr4bounty reload
+    permission: dr4bounty.admin
