@@ -1,4 +1,4 @@
-Plugin de Bounty para minecraft.
+**Plugin de Bounty para minecraft.**
 
 
 O Plugin foi feito para o servidor de NarutoC Altverse Network para a versão 1.7.10.
