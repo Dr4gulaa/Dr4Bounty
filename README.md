@@ -15,10 +15,8 @@ Sitema de Anunciar a Cabeça.
 
 GUI para listar as cabeças anunciadas e Bountys Fictícias.
 
+https://github.com/Dr4gulaa/Dr4Bounty/assets/77586106/74530caf-33ef-4a6f-98a8-c023421df315
 
-<div align="center">
-<img src="https://github.com/Dr4gulaa/Dr4Bounty/assets/77586106/9c2435cb-5a35-45fd-9b69-e2ab4be578a9" width="700px" />
-</div>
 
 ## 💼 Comandos
 
