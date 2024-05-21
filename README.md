@@ -19,3 +19,19 @@ GUI para listar as cabeças anunciadas e Bountys Fictícias.
 <div align="center">
 <img src="https://github.com/Dr4gulaa/Dr4Bounty/assets/77586106/9c2435cb-5a35-45fd-9b69-e2ab4be578a9" width="700px" />
 </div>
+
+## 💼 Comandos
+
+Players:
+
+/bounty 
+
+/bounty info
+
+Admins:
+
+/bountygive <player> <amount>
+
+/bountydel <player>
+
+/bountyheaddel <player>
